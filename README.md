@@ -1,7 +1,7 @@
 # CMPS 263 - Final Project
 
 ### The Effects of California Wildfires
-How much are people affected by California wildfires and what characteristics of the fires are problematic?
+How much are people effected by California wildfires and what characteristics of the fires are problematic?
 
 ### Data Sources
 - Fire
