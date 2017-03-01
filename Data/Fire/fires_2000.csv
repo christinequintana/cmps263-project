@@ -1,0 +1,60 @@
+INCIDENT#,CONTAINED,COUNTY/UNIT,FIRE NAME,DATE START,DATE CONT.,ORIGIN DPA,ACRES BURNED CAL FIRE,ACRES BURNED OTHER,ACRES BURNED TOTAL,VEG. TYPE,CAUSE,STRUCTURES DEST.,STRUCTURES DAM.,FATALITIES FIRE,FATALITIES CIVIL
+TGU-803,100%,Mendocino NFMNF--154,Town,03/31/00,04/05/00,USFS,,1500,1500,na,escape control,na,na,na,na
+MNF-177,,Mendocino NF,Cabbage,04/01/00,,USFS,,1540,1540,,?,,,,
+TGU-851,100%,Mendocino NF MNF_178,Franklin,04/02/00,04/03/00,USFS,,400,400,na,na,na,na,na,na
+LMU-630,100%,Lassen NF,PNF 151 (Robinson),04/04/00,04/05/00,USFS,,500,500,na,na,na,na,na,na
+BDU-4016,100%,Mono County,Assist (Azusa),05/29/00,06/01/00,USFS,,740,740,,Campfire,na,na,na,na
+TUU-4863,100%,Tulare,Elephant,06/01/00,06/01/00,CDF,497,,497,G,Control Burn,0,0,0,0
+ANF-2059,,Los Angeles,Dry,06/06/00,,USFS,,356,356,,Under Invest.,,,,
+VNC-14831,,Ventura,Calabasas,06/11/00,06/11/00,CC,,800,800,,Under Invest.,,,,
+BTU-5945,100%,Butte,Larkin,06/13/00,06/13/00,CDF,475,,475,G,Under Invest.,0,6,0,0
+LNU-3087,100%,Napa,Berryessa,06/13/00,06/16/00,CDF,5731,,5731,WB,Equip. Use,15,5,0,0
+TUU-5549,100%,Tulare,Lindsay,06/18/00,06/18/00,CDF,400,,400,G,Arson,0,0,0,0
+VNC-16413,100%,Ventura,Telegraph,06/26/00,06/26/00,CC,,400,400,,Equip. Use,,,,
+TUU-5954,100%,Tulare,Richgrove,06/28/00,06/28/00,CDF,450,,450,G,Elec. Power,0,0,0,0
+MVU-4431,100%,San Diego (exp002 in),Barrett,06/29/00,06/30/00,CDF,2000,,2000,,Under Invest.,,,,
+MMU-9447,100%,Mariposa,Granite,07/02/00,07/04/00,CDF,2000,,2000,WB,Shooter,0,0,0,0
+BDU-5166,100%,San Bernardino,Citrus,07/03/00,07/04/00,CDF,600,,600,G,Under Invest.,0,0,0,0
+BDU-5318,100%,San Bernardino,Assist (Morgan),07/07/00,07/08/00,USFS,,300,300,,Under Invest.,na,na,na,na
+TUU-6521,100%,Tulare,Success,07/09/00,07/09/00,CDF,320,,320,W,Arson,0,0,0,0
+LMU-1817,100%,Lassen,Goat,07/17/00,07/20/00,CDF,1084,,1084,T,Campfire,0,0,0,0
+SKU-2492,100%,Siskiyou,Bark KNF Assist #12,07/21/00,07/26/00,USFS,,1715,1715,na,Under Invest.,na,na,na,na
+BBD-1891,100%,San Luis Obispo,Shell,07/22/00,,USFS,,6300,6300,,Under Invest.,,,,
+MVU-5080,100%,San Diego,Assist #18 Buckman,07/22/00,07/22/00,USFS,,300,300,na,Under Invest.,na,na,na,na
+BDU-5882,100%,Inyo fire #168,Happy Camp,07/23/00,07/28/00,BLM,,5500,5500,na,Under Invest.,3,na,na,na
+SQF-1883,100%,Tulare,Manter,07/24/00,08/09/00,USFS,,74439,74439,,Under Invest.,15,1,,
+SCU-2756,100%,Santa Clara,Patterson,07/26/00,07/27/00,CDF,432,,432,G,Undetermined,0,0,0,0
+SKU-2574,100%,Siskiyou,Corp. #13,07/26/00,07/26/00,CDF,813,,813,G,Railroad,0,0,0,0
+LNU-4423,100%,Lake-Napa,Morgan,07/26/00,07/27/00,CDF,3283,,3283,W,Undetermined,2,0,0,0
+RRU-48329,100%,Riverside,State (Pachenga),07/29/00,08/09/00,CDF,11900,0,11900,B,Under Invest.,1,0,0,0
+BDU-6114,100%,Mono County,Golden II,08/01/00,08/08/00,BLM,,2150,2150,na,Lightning,1,na,na,na
+TUU-7396,100%,Kern County (Tulare),Chance,08/01/00,08/05/00,CC,,1200,1200,na,Lightning,na,na,na,na
+TUU-7440,100%,Kern County (Tulare),King,08/02/00,08/09/00,CC,,3243,3243,GB,Lightning,1,na,na,na
+LMU-2017,100%,Nevada (State),Redrock,08/01/00,08/01/00,NEVADA,,1000,1000,na,Lightning,na,7,na,na
+LMU-2018,100%,Nevada (State),Arrowcreek,08/01/00,08/01/00,NEVADA,,2900,2900,na,na,na,na,na,na
+TUU-73431,100%,Kern County (Tulare),Peak,08/02/00,08/04/00,CC,,300,300,GB,Lightning,0,0,0,0
+NEU-11785,100%,Placer,Drivers,08/02/00,08/04/00,CDF,360,,360,W,Under Invest.,0,0,0,0
+LNU-4679,100%,Yolo,Winters,08/02/00,08/02/00,CDF,380,,380,G,Undetermined,2,1,0,0
+BEU-2783,100%,San Benito,Northfork (5 EXP.),08/03/00,08/07/00,CDF,1773,,1773,GB,Equip. Use,0,0,0,0
+BDU-6121,100%,Inyo NF,Sawmill,08/03/00,08/03/00,USFS,,350,350,na,Lightning,na,na,na,na
+TCU-4955,100%,Calaveras,Parrotts,08/05/00,08/06/00,CDF,700,,700,GB,Undetermined,0,0,0,0
+MMU-11933,100%,Merced,Romero,08/09/00,09/09/00,CDF,1200,,1200,,Undetermined,0,2,0,0
+FKU-8628,100%,Fresno,Highway,08/13/00,08/17/00,CDF,700,,700,GB,Arson,0,0,0,0
+SHU-6728,100%,Shasta,Union,08/14/00,08/15/00,CDF,350,,350,GW,Equip. Use,4,0,0,0
+BTU-9072,100%,Plumas,Storrie,08/17/00,09/09/00,USFS,,55261,55261,na,Railroad,na,na,na,na
+SKU-3009,100%,Siskiyou,Corp. #15 Cooley,08/17/00,08/17/00,CDF,600,,600,G,Railroad,0,0,0,0
+SLU-3684,100%,San Luis Obispo,Blech,08/21/00,08/21/00,CDF,463,,463,G,Undetermined,0,0,0,0
+MMU-12981,100%,Mariposa,Hunter,08/27/00,09/04/00,CDF,8084,,8084,GB,Equip. Use,6,0,0,0
+FKU-9369,,Fresno,FKU 9369,08/30/00,08/31/00,LOCAL,,300,300,G,Undetermined,0,0,0,0
+RRU-58237,100%,Riverside fire#1454,Black Ranch,09/09/00,09/11/00,CDF,475,,475,GB,Shooting,3,2,0,0
+ORC-50963,100%,Orange,TRW Fire,09/10/00,,CC,,480,480,,Under Invest.,,,,
+SBC-5687,100%,Santa Barbara,Harris,09/13/00,09/18/00,CC,,9700,9700,B,Under Invest.
+MVU-6514,100%,San Diego,Lyons,09/13/00,09/14/00,USFS,,400,400,na,Arson,na,na,na,na
+BDU-8329,100%,Los Angeles,Paradise,09/13/00,09/13/00,USFS,,427,427,na,Under Invest.,na,na,na,na
+BDU-7525,100%,Los Angeles LAC162392,Yucca,09/13/00,09/13/00,CC,,868,868,na,Under Invest.,na,na,na,na
+BTU-10476,100%,Butte,Concow,09/19/00,09/22/00,CDF,1835,,1835,TB,Equip. Use,16,2,0,1
+LNU-6288,100%,Yolo,Sixteen,09/21/00,07/09/02,CDF,400,,400,AP,Arson,0,0,0,0
+TGU-3715,100%,Tehama (3 exp),Weinstein,09/29/00,10/02/00,CDF,8284,,8284,B,escape control,3,0,0,0
+FKU-10923,100%,Fresno,Worsham,10/06/00,10/06/00,LOCAL,,500,500,AP,Vehicle,0,0,0,0
+LNU-7151,100%,Lake,Hidden,10/21/00,10/27/00,CDF,4500,,4500,GB,Elec. Power,12,1,0,0
+AEU-14243,100%,El Dorado,Latrobe,10/21/00,10/21/00,CDF,750,,750,G,Elec. Power,0,0,0,0

@@ -1,0 +1,75 @@
+INCIDENT#,CONTAINED,COUNTY/UNIT,FIRE NAME,DATE START,DATE CONT.,ORIGIN DPA,ACRES BURNED CAL FIRE,ACRES BURNED OTHER,ACRES BURNED TOTAL,VEG. TYPE,CAUSE,STRUCTURES DEST.,STRUCTURES DAM.,FATALITIES FIRE,FATALITIES CIVIL
+FKU-19,100%,Sequoia NF,USFS #1,01/01/01,01/04/01,USFS,,303,303,na,na,na,na,na,na
+MVU-53,100%,San Diego,Viejas,01/03/01,01/08/01,CDF,2300,8053,10353,B,Smoking,16,13,0,0
+TGU-2166,100%,Tehama,M-9 Fire,05/09/01,05/09/01,USFS,,351,351,na,Under Invest.,na,na,na,na
+SKU-1500,100%,Siskiyou,Jones,05/09/01,05/14/01,USFS,,1440,1440,na,Debris,na,na,na,na
+LMU-00993,50%,Lassen-Modoc,Hilton,05/20/01,05/23/01,CDF,390,,390,T,Debris,2,0,0,0
+BTU-5556,100%,Butte,Larkin,05/20/01,05/21/01,LOCAL,,400,400,W,Equip. Use,2,0,0,0
+SQF-622,100%,Tulare,White,05/23/01,05/26/01,USFS,,332,332,,Under Invest.,,,,
+LMU-01100,100%,Lassen,Devil,05/27/01,06/01/01,CDF,4400,,4400,T,Equip. Use,0,0,0,0
+TGU-2791,100%,Tehama,Freeman,05/29/01,05/29/01,CDF,390,,390,G,Vehicle,0,0,0,0
+SHU-4405,100%,Trinity,Big,06/02/01,06/03/01,USFS,,800,800,na,Under Invest.,na,na,na,na
+4269 no rept.,100%,Imperial,Powerline,06/03/01,,BLM,,777,777,na,Under Invest.,na,na,na,na
+HUU-002020,100%,Humboldt,Flat,06/05/01,06/05/01,CDF,300,,300,TG,Campfire,0,0,0,0
+MMU-9668,100%,Madera-Mariposa,165,06/13/01,06/13/01,LOCAL,,1500,1500,G,Undetermined,0,0,0,0
+BEU-2101,100%,San Benito,San Benito Cattle Co.,06/13/01,06/13/01,CDF,580,,580,G,Arson,0,0,0,0
+TGU-3132,100%,Tehama,Hog,06/13/01,06/13/01,CDF,340,,340,G,Equip. Use,0,0,0,0
+AEU-8312,100%,Amador,Jackson,06/13/01,06/13/01,CDF,2240,,2240,GWB,Welding,15,1,0,0
+MMU-9689,100%,Merced,Merced Falls Fire,06/13/01,06/14/01,CDF,400,,400,GWB,Weadeater,2,0,0,0
+MMU-9668,100%,Merced,Assist SNF-562,06/13/01,06/13/01,LOCAL,,1200,1200,G,Under Invest.,0,0,0,0
+BDU-4825,100%,San Bernardino,Hemlock,06/14/01,06/20/01,USFS,,1074,1074,na,Escape,na,na,na,na
+MMU-9893,100%,Merced,Pacheco,06/16/01,06/17/01,CDF,1550,,1550,GB,Vehicle,0,0,0,0
+BDU4918,100%,San Bernardino,Shinn,06/16/01,06/18/01,USFS,,300,300,na,Under Invest.,na,na,na,na
+NEU-9855,100%,Nevada,Martis,06/17/01,07/01/01,CDF/USFS,5600,8900,14500,T,Campfire,5,0,0,0
+RRU-41162,100%,Riverside Palm Spgs.,Tram,06/17/01,06/18/01,CDF,393,,393,B,Arson,0,0,0,0
+TGU-3255,100%,Tehama,Red Bank,06/17/01,06/17/01,CDF,650,,650,G,Vehicle,0,0,0,0
+SQF-1152,100%,Kern,Canyon,06/18/01,06/19/01,USFS,,566,566,,Under Invest.,,,,
+MEU-4411,100%,Mendocino,Ridge,06/23/01,06/25/01,CDF,610,,610,TGB,Equip. Use,0,0,0,0
+SQF-1225,100%,Tulare Sequoia NF,Democrat,06/23/01,06/25/01,USFS,,550,550,na,Under Invest.,na,na,na,na
+RRU-42668,100%,Riverside,Watkins,06/23/01,06/24/01,CDF,1104,303,1407,G,Arson,0,1,0,0
+AEU-8916,100%,Amador,Bevan,06/23/01,06/23/01,CDF,500,,500,G,Equip. Use,0,0,0,0
+TUU-6158,100%,Tulare,Vander Bowen,06/29/01,06/29/01,CDF,596,,596,G,Vehicle,0,0,0,0
+MMU-10898,100%,Merced,McNamammara,07/01/01,07/01/01,LOCAL,,700,700,G,Undetermined,0,0,0,0
+BDU5620,100%,Inyo NF,McLaughlin,07/02/01,07/05/01,USFS,,2900,2900,na,Lightning,na,na,na,na
+TCU-4586,100%,Calaveras,Lake,07/03/01,07/03/01,CDF,550,,550,B,Misc.,0,0,0,0
+AEU-9653,100%,Sacramento,Payen,07/05/01,07/05/01,CDF,300,,300,G,Elec. Power,0,0,0,0
+AEU-9735,100%,Amador,Sixteen,07/06/01,07/06/01,CDF,550,,550,GB,Undetermined,0,0,0,0
+RRU-47010,100%,Riverside,Ballinger,07/09/01,07/09/01,CDF,350,,350,B,Undetermined,0,0,0,0
+RRU-47545,100%,Riverside,Silent,07/11/01,07/12/01,CDF,548,,548,B,Equip. Use,0,0,0,0
+YNP-1655,,Mariposa/Yosemite NP,Hoover Complex,07/13/01,,NPS,,8007,8007,,Lightning,,,,
+MMU-11907,100%,Merced,Crane,07/16/01,07/16/01,LOCAL,0,900,900,G,Under Invest.,0,0,0,0
+RRU-50309,100%,Riverside,Reche,07/22/01,07/23/01,CDF,1798,,1798,B,Vehicle,0,0,0,0
+MMU-12399,100%,Mariposa/SNF,Briceburg,07/24/01,07/25/01,CDF,800,,800,GWB,Under Invest.,0,0,0,0
+LMU-1992,100%,Lassen,Grasshopper,07/25/01,07/27/01,CDF,992,,992,GB,Lightning,0,0,0,0
+BDU-6307,100%,San Bernardino,Shelby,07/27/01,07/28/01,CDF,75,654,729,B,Railroad,0,0,0,0
+BTU-8762,100%,Lassen,Stream,07/26/01,07/26/01,USFS,0,3560,3560,na,Lightning,na,na,na,na
+SHU-7073,100%,Shasta,Powerhouse,07/28/01,08/01/01,CDF,490,,490,T,Undetermined,1,0,0,0
+AEU-11228,100%,Sacramento,Clay,07/31/01,07/31/01,CDF,535,,535,G,Misc.,0,0,0,0
+SCU-3270,100%,Stanislaus,Del Puerto,08/03/01,08/04/01,CDF,400,,400,GWB,Campfire,0,0,0,0
+MNF-667,100%,Mendocino NF/ColusaGlenn,Trough,08/08/01,08/20/01,USFS,,24970,24970,,Undetermined,30,,,
+NOD-2187,100%,Modoc,Cowhead/BLM D438,08/08/01,08/09/01,BLM,,1670,1670,na,Lightning,na,na,na,na
+LMU-2549,100%,Modoc,Modoc Complex,08/08/01,08/08/01,USFS,,5367,5367,na,Lightning,na,na,na,na
+LMU-2178,100%,Lassen,BLM D431 Shaffer,08/08/01,08/08/01,BLM,,1100,1100,na,Lightning,na,na,na,na
+SHU-7419,100%,Shasta,East Fire,08/09/01,08/10/01,CDF,624,,624,TB,Elec. Power,0,0,0,0
+LMU-2228,100%,Lassen,Observation,08/09/01,08/12/02,USFS,,67700,67700,na,Lightning,na,na,na,na
+LMU-2248,100%,Modoc NF,Blue Complex,08/09/01,08/10/02,USFS,,37950,37950,na,Lightning,1,na,na,na
+NEU-14033,100%,Placer/Tahoe NF,GAP,08/12/01,08/17/01,USFS,,2462,2462,na,Under Invest.,1,na,na,na
+BDU-6857,100%,Mono,Assist Crater,08/12/01,08/15/01,USFS,,5800,5800,na,Lightning,na,na,na,na
+NEU-14053,100%,Nevada Desert,Buzz,08/12/01,08/12/01,BLM,,2206,2206,na,Lightning,na,na,na,na
+MVU-5576,100%,Cleveland NF/MVU,Orosco,08/14/01,08/15/01,CDF/USFS,20,793,813,B,Under Invest,0,0,0,0
+NEU-14446,100%,Placer,Ponderosa,08/17/01,08/23/01,CDF,2780,,2780,,Vehicle,0,0,0,0
+MMU-14026,100%,Mariposa/Tuolumne,Creek,08/18/01,08/24/01,CDF,11095,,11095,TGWB,Arson,43,0,0,0
+TCU- 6112,100%,Calaveras,Leonard,08/19/01,08/25/01,CDF,5167,,5167,W,Equip. Use,22,0,0,0
+FKU-10044,100%,Sequoia NF/Fresno,Highway,08/19/01,08/29/01,USFS,30,4122,4152,B,Arson,8,na,na,na
+MMU-14176,100%,Madera,North Fork,08/20/01,,CDF,475,2455,2930,,Under Invest.,3,2,0,0
+AEU-12745,100%,El Dorado,Star,08/25/01,09/22/01,USFS,,16761,16761,na,Under Invest.,4,na,na,na
+SHU-7984,100%,Trinity,Oregon,08/28/01,08/31/01,CDF,1680,,1680,,Undetermined,33,0,0,0
+SHU-8086,100%,Trinity,Hyampon,08/31/01,09/05/01,USFS,,1065,1065,na,Undetermined,na,na,na,na
+TCU-6632,100%,Calaveras,Darby,09/05/01,09/24/01,CDF,14280,,14280,TWGA,Undetermined,1,1,0,0
+BTU- 10696,100%,Butte,Poe,09/06/01,09/12/01,CDF,8333,,8333,T,Elec. Power,133,3,0,0
+KNF-3902,100%,Siskiyou,Happy Camp Cmplx,09/14/01,10/10/01,USFS,,8500,8500,TW,Lightning,,,,
+BDU-8983,100%,Angeles NF,Stables,10/12/01,10/15/01,USFS,,6544,6544,na,Under Invest.,4,na,na,na
+BTU-12700,100%,Butte,HWY 70,10/24/01,10/26/01,CDF,1711,,1711,T,Arson,0,0,0,0
+TCU-8044,100%,Calaveras,Moore,10/27/01,10/31/01,CDF,580,,580,T,Undetermined,0,0,0,0
+MMU-18913,100%,Merced,Crane,11/02/01,11/02/01,LOCAL,,330,330,AG. P.,Undetermined,0,0,0,0
+MVU-8827,100%,San Diego,Bell,12/08/01,12/11/01,CDF,1204,,1204,B,Undetermined,5,0,0,2

@@ -1,0 +1,100 @@
+INCIDENT#,CONTAINED,COUNTY/UNIT,FIRE NAME,DATE START,DATE CONT.,ORIGIN DPA,ACRES BURNED CAL FIRE,ACRES BURNED OTHER,ACRES BURNED TOTAL,VEG. TYPE,CAUSE,STRUCTURES DEST.,STRUCTURES DAM.,FATALITIES FIRE,FATALITIES CIVIL
+BDU-1061,,Los Angeles,Assist (Pacific),01/06/03,01/07/03,CC,1300,,1300,n/a,n/a,n/a,n/a,n/a,n/a
+RRU-15024,,Riverside,Local,02/23/03,02/23/03,Local,0,12000,12000,AP,Escape,0,0,0,0
+BDU-3731,,Mono,Lundy,04/24/03,04/26/03,Local,,600,600,n/a,n/a,n/a,n/a,n/a,n/a
+TUU-4174,,Tulare,Delima,05/03/03,05/03/03,Local,0,3000,3000,AP,Misc.,0,0,0,0
+BEU-1514,,San Benito,New Idria/Griswold,05/18/03,05/18/03,USFS,,628,628,G,Vehicle,0,0,0,0
+FKU-6009,,Fresno,FKU-6009,05/28/03,05/28/03,Local,0,1000,1000,AP,Smoking,0,0,0,0
+SCU-1735,,Stanislaus,Del Puerto Cyn.,05/29/03,06/01/03,CDF,597,,597,B,Equip. Use,0,0,0,0
+SCU-1791,,San Joaquin,Bird,06/01/03,06/01/03,CDF,6804,,6804,GB,Equip. Use,0,0,0,0
+MMU-9021,,Merced,Fish (McNamera),06/02/03,06/02/03,Local,,650,650,na,Debris Burning,2,0,0,0
+MMU-9232,,Merced,SNF Assist (165),06/05/03,06/10/03,USFS,,300,300,G,n/a,n/a,n/a,n/a,n/a
+TUU-5638,,Kern,Shallock,06/06/03,06/06/03,CC,,564,564,n/a,vehicle,0,0,0,0
+TGU-3255,,Tehama,Gyle,06/10/03,06/10/03,Local,,300,300,AP,Equip. Use,0,0,0,0
+MMU-9901,,Merced,152,06/15/03,06/16/03,CDF,1558,,1558,GB,Munition,0,0,0,0
+TUU-6106,,Kern,Caliente,06/16/03,06/17/03,CC,,1223,1223,n/a,n/a,n/a,n/a,n/a,n/a
+MVU-4134,,San Diego,Sycamore,06/17/03,06/18/03,CDF,288,116,404,B,n/a,n/a,n/a,n/a,n/a
+BDU-11055,,Inyo NF,Assist ABC Misc.,06/18/03,06/22/03,USFS,,1173,1173,GB,Lightning,n/a,n/a,n/a,n/a
+FKU-7076,,Fresno,FKU-7076,06/19/03,06/19/03,Local,,15000,15000,AP,Hostile Fire,0,0,0,0
+MMU-10475,,Madera,26 Fire,06/23/03,06/23/03,CDF,700,,700,G,Undetermined,0,0,0,0
+TGU-003554,,Tehama,Nature,06/23/03,06/23/03,CDF,610,,610,G,Undetermined,0,0,0,0
+BTU-006701,,Butte,Hwy 70,06/24/03,06/24/03,Local,,368,368,G,Vehicle,0,0,0,0
+TUU-6501,,Kern,Kern #8 (Martinez #2),06/26/03,06/27/03,CDF,329,,329,B,n/a,n/a,n/a,n/a,n/a
+RRU-48718,,Riverside,Sawmill,06/26/03,07/01/03,CC,,536,536,,n/a,9,1,n/a,n/a
+TUU-6588,,Tulare,Chimney,06/28/03,06/29/03,BIA,,565,565,GB,n/a,0,0,0,0
+TUU-76655,,Kern,Tejon,06/29/03,06/29/05,CC,,1155,1155,GB,n/a,2,0,0,0
+LNU-04073,,Yolo,Capay,06/29/03,06/29/03,CDF,400,,400,W,Smoking,0,0,0,0
+HUU-2762,,Humboldt,Friday,06/29/03,06/30/03,USFS,,389,389,n/a,n/a,0,0,0,0
+MMU-011084,,Merced,I-5,06/30/03,06/30/03,CDF,1000,,1000,G,Campfire,0,0,0,0
+LNU-004146,,Lake,Forty,07/01/03,07/01/03,CDF,300,,300,B,Arson,0,0,0,0
+BEU-002235,,San Benito,Hwy 25,07/02/03,07/02/03,Local,,360,360,G,Vehicle,0,0,0,0
+BEU-002241,,San Benito,Dain,07/02/03,07/02/03,CDF,500,,500,G,Equip. Use,0,0,0,0
+LMU-001784,,Lassen,A-3,07/02/03,07/02/03,CDF,1100,,1100,G,Vehicle,12,0,0,0
+RRU-050488,,Riverside,State Fire,07/03/03,07/03/03,CDF,855,,855,n/a,Smoking,0,0,0,0
+MMU-001126,,Mariposa,Hunter #9,07/03/03,07/04/03,CDF,641,,641,GB,Equip. Use,0,0,0,0
+RRU-50865,,Riverside,Stage,07/04/03,07/04/03,CDF,1700,,1700,B,Vehicle,0,0,0,0
+TUU-7195,,Kern,Kern #10 (Pump),07/07/03,07/07/03,CC,,747,747,G,Equip. Use,0,0,0,0
+MMU-11727,,Madera,North Fork,07/08/03,07/10/03,CDF,360,,360,W,Vehicle,0,0,0,0
+TUU-007233,,Tulare,Frazier,07/08/03,07/07/03,CDF,699,,699,W AP,Equipment,0,0,0,0
+MMU-11745,,Mariposa,YNP #1734 (Woodlot),07/08/03,07/11/03,NPS,,458,458,W,Undetermined,0,0,0,0
+TCU-4908,,Stanislaus,CoopersTown #2,07/12/03,07/12/03,CDF,396,,396,G,Equip. Use,0,0,0,0
+TUU-7429,,Tulare,Castle,07/12/03,07/12/03,CDF,320,,320,G,Arson,0,0,0,0
+TCU-004924,,Stanislaus,Greig,07/13/03,07/13/03,CDF,420,,420,G,Vehicle,0,0,0,0
+TUU-7593,,Kern,Kern #14 (Hillside),07/15/03,07/16/03,CC,,835,835,G,Equip. Use,0,0,0,0
+MVU-5044,,San Diego,Coyote,07/16/03,07/26/03,CDF,18705,,18705,GWB,Lightning,2,0,0,0
+MMU-12479,,Merced,Grant,07/18/03,07/18/03,Local,,500,500,AP,Undetermined,0,0,0,0
+YNP-002085,,Tuolumne,Kibbie Complex,07/20/03,10/02/03,NPS,,9815,9815,T,Lightning,0,0,0,0
+TUU-7804,,Kern,Grapevine Kern #15,07/20/03,07/20/03,CC,,1830,1830,G,Undetermined,0,0,0,0
+LMU_2117,,Lassen,BLM U575 (Ram),07/20/03,07/21/03,BLM,,375,375,GB,Lightning,0,0,0,0
+RRU-56005,,Riverside,Local,07/22/03,07/22/03,Local,,2020,2020,G,Undetermined,0,0,0,0
+SCU-2846,,Stanislaus,Del Puerto,07/20/03,07/22/03,CDF,5170,,5170,TBG,Lightning,0,4,0,0
+SLU-5133,,San Luis Obispo,Parkhill,07/20/03,07/22/03,CDF,1200,,1200,GB,Vehicle,18,0,0,0
+NEU-10647,,Nevada,TNF (Chilcoot Comple,07/20/03,07/23/03,USFS,,5693,5693,BT,Lightning,0,0,0,0
+TCU-417,,Tuolumne,STF #8 (Mountain Com,07/20/03,10/03/03,USFS,,3747,3747,GB,Lightning,0,0,0,0
+LMU-2135,,Lassen,BLM-U580/Smoke,07/21/03,07/25/03,BLM,,8010,8010,GB,Lightning,0,0,0,0
+LMU-2170,,Lassen,Shinn BLM 590,07/22/03,07/22/03,BLM,,950,950,B,Lightning,0,0,0,0
+TUU-7957,,Kern,Basin,07/23/03,07/25/03,CC,,1002,1002,B,n/a,1,0,0,0
+MMU-13006,,Madera,River,07/25/03,07/25/03,Local,,300,300,TG,Undetermined,0,0,0,0
+RRU-056869,,Riverside,Canyon,07/25/03,07/27/03,CDF,4336,,4336,B,Arson,1,0,0,0
+TUU-8510,,Kern,Little Kern (China),07/30/03,08/03/03,USFS,,509,509,GBT,Lightning,0,0,0,0
+LMU-2449,,Modoc,BLM U 643 (Barber),07/31/03,08/01/03,BLM,,1330,1330,BG,Lightning,2,0,0,0
+SQF-002423,,Tulare,TIA 2415 ( Cooney),07/31/03,08/27/03,USFS,,1928,1928,BT,Lightning,0,0,0,0
+SCU-3140,,Stanislaus,Hoover,08/04/03,08/04/03,CDF,2000,,2000,W,Lightning,0,0,0,0
+SLU-5785,,San Luis Obispo,Chimney Incident,08/10/03,08/11/03,CDF,1500,,1500,B,Vehicle,0,0,0,0
+RRU-63401,,Riverside,Locust,08/18/03,08/20/03,CDF,1898,,1898,G,Rekindle,1,2,0,0
+RRU-063409,,Riverside,Local/Highway,08/18/03,08/18/03,Local,,300,300,G,Arson,0,0,0,0
+SCU-003460,,Santa Clara,Plus,08/20/03,08/20/03,Local,,500,500,G,Equipment,0,0,0,0
+BDU-8826,,Los Angeles,Alamos,08/23/03,08/24/03,USFS,,300,300,n/a,Undetermined,0,0,0,0
+SCU-003581,,Santa Clara,Santa Clara Complex,08/25/03,09/02/03,CDF,30170,,30170,GWB,Lightning,0,0,0,0
+SCU-003566,,Contra Costa,Pittsburg,08/26/03,08/26/03,CDF,300,,300,G,Lightning,0,0,0,0
+MMU-15304,,Mariposa,White Rock,08/26/03,08/26/03,CDF,640,,640,W,Lightning,0,0,0,0
+TCU-006447,,Tuolumne,Lightning 23,08/26/03,08/26/03,CDF,800,,800,G,Lightning,0,0,0,0
+TUU-009571,,Tulare,Smith,08/27/03,08/27/03,Local,,320,320,G,Vehicle,0,0,0,0
+NEU-13290,,Placer,TNF 1993 (Cod Comp,09/01/03,09/01/03,USFS,,830,830,B,Lightning,0,0,0,0
+BDU-10212,,Mono,Assist (Dexter),09/02/03,09/02/03,USFS,,2515,2515,BT,Lightning,0,0,0,0
+TGU-5497,,Glenn,MNF Assist (Grindston,09/03/03,09/03/03,USFS,,8019,8019,BT,Lightning,0,0,0,0
+HUU-004435,,Humboldt,Lightning Honeydew 4,09/03/03,09/03/03,CDF,13846,,13846,W,Lightning,0,0,0,0
+HUU-004501,,Humboldt,Canoe,09/03/03,10/15/03,CDF,24882,,24882,TGW,Lightning,0,2,0,0
+TGU-5488,,Glenn,4-2,09/03/03,09/04/03,CDF,400,,400,W,Lightning,0,0,0,0
+LNU-6644,,Lake,SITES,09/03/03,09/04/03,CDF,390,,390,W,Lightning,0,0,0,0
+LNU-6629,,Yolo,40,09/03/03,09/03/03,CDF,1400,,1400,B,Arson,0,0,0,0
+LNU-7125,,Lake,MNF-964 Asst / Smoke,09/03/03,09/10/03,USFS,,3500,3500,W,Lightning,0,0,0,0
+SHU-9940,,Trinity,SHF Assist (Loma),09/14/03,09/22/03,USFS,,3074,3074,T,n/a,0,0,0,0
+TUU-10986,,Tulare,NPS #6 Paradise,09/27/03,10/19/03,NPS,,1298,1298,T,Lightning,0,0,0,0
+TGU-6202,,Tehama,MNF Assist (Spanish),09/28/03,10/02/03,USFS,,6050,6050,T,n/a,0,0,0,0
+BDU-10299,,San Bernardino,Gorman,09/28/03,09/29/03,CDF,300,0,300,G,Undetermined,0,0,0,0
+BDU-10456,,San Bernardino,Lytle,10/01/03,10/01/03,USFS,,903,903,BT,n/a,0,0,0,0
+RRU-81407,,Riverside,Pass,10/21/03,10/23/03,CDF,2189,208,2397,B,Arson,3,7,0,0
+BDU-11262,,San Bernardino,Grand Prix,10/21/03,11/05/03,CDF,12289,54605,66894,B,Undetermined,136,71,0,0
+MVU-7975,,San Diego,Assist 68 (Roblar 2),10/21/03,10/27/03,MIL,,8592,8592,B,n/a,0,0,0,0
+SLU-7808,,Ventura,Piru,10/23/03,11/14/03,CC,,63991,63991,GB,n/a,8,0,0,0
+BDU-14164,,Los Angeles,Assist Verdale,10/24/03,10/24/03,CC,,8650,8650,GB,n/a,1,0,0,0
+SLU-7886,,Ventura,Simi,10/25/03,11/03/03,CC,,108204,108204,B,n/a,300,11,0,0
+MVU-8126,,San Diego,Cedar,10/25/03,11/04/03,USFS,143734,129512,273246,GWAP,Human,4847,63,1,14
+BDU-11440,,San Bernardino,Assist (Old),10/25/03,11/14/03,USFS,,91281,91281,B,n/a,1003,7,0,6
+MVU-8151,,San Diego,Mine,10/26/03,10/28/03,CDF,46000,,46000,B,Arson,0,0,0,0
+RRU-082809,,Riverside,Mountain,10/26/03,10/29/03,CDF,10000,,10000,GB,Equip. Use,61,0,0,0
+HUU-5720,,Humboldt,Tuk,10/26/03,10/30/03,NPS,,315,315,T,N/A,0,0,0,0
+MVU-008143,,San Diego,Paradise,10/26/03,11/06/03,CDF,56700,,56700,B,Equip. Use,223,10,0,2
+SHU-11176,,Shasta,Whitmore,10/27/03,10/30/03,CDF,1200,,1200,T,Undetermined,0,0,0,0
+LMU-4234,,Modoc,Sand,11/28/03,11/29/03,USFS,,300,300,BT,Escape,0,0,0,0
