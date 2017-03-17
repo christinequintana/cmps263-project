@@ -1,16 +1,21 @@
 # CMPS 263 - Final Project
 
 ### The Effects of California Wildfires, 2000 - 2015
-How much are people effected by California wildfires and what characteristics of the fires are problematic?
+
+To install Python dependencies: `pip install -r requirements.txt`
 
 ### Visualizations
 
 #### Jupyter Notebooks
 - CA\_Wildfire\_Acres - Discrete heatmap of number of acres burned per year and month.
 - CA\_Wildfire\_Causes - Bar chart of number of wildfires by cause.
-- CA\_Wildfire\_Acres - Discrete heatmap of number of fires per year and month.
+- CA\_Wildfire\_Counts - Discrete heatmap of number of fires per year and month.
 - CA\_Wildfire\_Fatalities - Bar chart of number of wildfire fatalities by year.
 - CA\_Wildfire\_Structures - Bar chart of number of structures damaged/destroyed by year.
+
+#### Poster
+- poster.svg - SVG version of the visualization poster.
+- poster.pdf - Final PDF version of the visualization poster.
 
 ### Data Sources
 - Fire
